@@ -31,4 +31,4 @@ lazyResultList = lazyGenerator(10)
 
 #We compute and display the values from the generator object
 print ("List")
-print ([i for i in lazyResultList])
+print ([i for i in lazyResultList]) #List comprehension
